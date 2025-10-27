@@ -123,5 +123,11 @@ source ~/.bashrc
 ~/.cli-save.bash
 ```
 
+
 2. **Old entries showing in `cli-pick`**  
    - Press **Ctrl+R** inside `cli-pick` to reload.
+  
+
+<img width="1172" height="156" alt="Screenshot from 2025-10-27 23-44-29" src="https://github.com/user-attachments/assets/d18afb0b-99a1-497e-ba88-098ac84bc734" />
+
+
